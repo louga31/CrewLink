@@ -91,7 +91,8 @@ import hat89 from '../../static/hats/89.png'; // @ts-ignore
 import hat90 from '../../static/hats/90.png'; // @ts-ignore
 import hat91 from '../../static/hats/91.png'; // @ts-ignore
 import hat92 from '../../static/hats/92.png'; // @ts-ignore
-import hat93 from '../../static/hats/93.png';
+import hat93 from '../../static/hats/93.png'; // @ts-ignore
+import hat94 from '../../static/hats/94.png';
 
 // @ts-ignore
 import skin1 from '../../static/skins/1.png'; // @ts-ignore
@@ -383,4 +384,5 @@ export const hats = [
 	hat91,
 	hat92,
 	hat93,
+	hat94,
 ];
